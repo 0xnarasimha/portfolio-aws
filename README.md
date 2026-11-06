@@ -108,5 +108,5 @@ stitch-immersive-3d-developer-portfolio/
 - **Role:** Systems Architect & ML Engineer
 - **Institution:** Mohan Babu University · Class of 2029
 - **GitHub:** [@0xnarasimha](https://github.com/0xnarasimha)
-- **Email:** [narasimha.reddy@student.mbu.asia](mailto:narasimha.reddy@student.mbu.asia)
+- **Email:** [simhareddy20071206@gmail.com](mailto:simhareddy20071206@gmail.com)
 - **Location:** Tirupati, India
